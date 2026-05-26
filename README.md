@@ -48,7 +48,6 @@ Analysis of:
 - Databases Currently Used
 - Platforms Currently Used
 - Web Frameworks Currently Used
-<img width="1755" height="1242" alt="Building a dashboard with IBM Cognos_page-0001" src="https://github.com/user-attachments/assets/2f297a31-4dc4-494e-bc5e-a2c017782ea3" />
 
 Future Technology Trends
 
@@ -57,7 +56,6 @@ Analysis of:
     - Databases Desired
     - Platforms Desired
     - Web Frameworks Desired
-<img width="1755" height="1242" alt="Building a dashboard with IBM Cognos_page-0003" src="https://github.com/user-attachments/assets/c989c807-f9db-4467-8fab-07460e5399d7" />
 
 Demographics
 
@@ -66,7 +64,6 @@ Analysis of:
     - Geographic Distribution
     - Education Levels
     - Age by Education Level
-<img width="1755" height="1242" alt="Building a dashboard with IBM Cognos_page-0003" src="https://github.com/user-attachments/assets/173a0a40-629f-4ba2-bfa7-2a80adf9e3df" />
 
 # Key Findings
 - Current technology usage is concentrated among a small number of mature technologies.
